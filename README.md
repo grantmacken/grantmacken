@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on playing the fiddle while Rome burns
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grantmacken&layout=compact)](https://github.com/grantmacken/github-readme-stats)
+
 <!--
 **grantmacken/grantmacken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
