@@ -1,16 +1,17 @@
 
 My name is Grant Mackenzie and I'm a full-stack web developer. I'm from New Zealand, Awhitu.
-I’m currently working **not** looking for full time work, but do enjoy playing the fiddle while Rome burns.
+I’m currently **not** looking for full time work, but do enjoy playing the fiddle and adusting my dotfiles while Rome burns.
 
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-XQuery-informational?style=flat&logo=xquery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Existdb-informational?style=flat&logo=existdb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Xqerl-informational?style=flat&logo=xqerl&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grantmacken&layout=compact)](https://github.com/grantmacken/github-readme-stats)
 
